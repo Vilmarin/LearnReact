@@ -1,0 +1,8 @@
+.content {
+    background-color: hotpink;
+    flex-grow: 2;
+  }
+
+.content img {
+    width: 862px;
+  }

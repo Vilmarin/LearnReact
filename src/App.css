@@ -1,0 +1,17 @@
+.App {
+  font-size: 36px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.wrapper {
+  padding: 0 20px;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.container {
+  display: flex;
+}
