@@ -1,0 +1,10 @@
+.userAvatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 2px;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+}
